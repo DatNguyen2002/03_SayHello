@@ -1,0 +1,15 @@
+D:\Unity\GitHub\03_SayHello\SayHello\bin\Debug\net7.0\SayHello.exe
+D:\Unity\GitHub\03_SayHello\SayHello\bin\Debug\net7.0\SayHello.deps.json
+D:\Unity\GitHub\03_SayHello\SayHello\bin\Debug\net7.0\SayHello.runtimeconfig.json
+D:\Unity\GitHub\03_SayHello\SayHello\bin\Debug\net7.0\SayHello.dll
+D:\Unity\GitHub\03_SayHello\SayHello\bin\Debug\net7.0\SayHello.pdb
+D:\Unity\GitHub\03_SayHello\SayHello\obj\Debug\net7.0\SayHello.csproj.AssemblyReference.cache
+D:\Unity\GitHub\03_SayHello\SayHello\obj\Debug\net7.0\SayHello.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\GitHub\03_SayHello\SayHello\obj\Debug\net7.0\SayHello.AssemblyInfoInputs.cache
+D:\Unity\GitHub\03_SayHello\SayHello\obj\Debug\net7.0\SayHello.AssemblyInfo.cs
+D:\Unity\GitHub\03_SayHello\SayHello\obj\Debug\net7.0\SayHello.csproj.CoreCompileInputs.cache
+D:\Unity\GitHub\03_SayHello\SayHello\obj\Debug\net7.0\SayHello.dll
+D:\Unity\GitHub\03_SayHello\SayHello\obj\Debug\net7.0\refint\SayHello.dll
+D:\Unity\GitHub\03_SayHello\SayHello\obj\Debug\net7.0\SayHello.pdb
+D:\Unity\GitHub\03_SayHello\SayHello\obj\Debug\net7.0\SayHello.genruntimeconfig.cache
+D:\Unity\GitHub\03_SayHello\SayHello\obj\Debug\net7.0\ref\SayHello.dll
